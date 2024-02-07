@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1b277b6a-7fb5-4676-8188-f207b740f49a": {
+      "ProjectGuid": "1b277b6a-7fb5-4676-8188-f207b740f49a",
+      "DisplayName": "WebApi",
+      "ColorIndex": 0
+    },
+    "5c6faac0-37f5-4e2d-b1c8-e394b5a76025": {
+      "ProjectGuid": "5c6faac0-37f5-4e2d-b1c8-e394b5a76025",
+      "DisplayName": "Data",
+      "ColorIndex": 1
+    },
+    "823f3376-468a-49de-bd4f-66f0a1105f97": {
+      "ProjectGuid": "823f3376-468a-49de-bd4f-66f0a1105f97",
+      "DisplayName": "DL",
+      "ColorIndex": 2
+    },
+    "4c1c0e43-8fba-45a2-9bba-8e1c9dc8c0f8": {
+      "ProjectGuid": "4c1c0e43-8fba-45a2-9bba-8e1c9dc8c0f8",
+      "DisplayName": "Core",
+      "ColorIndex": 3
+    },
+    "bf2dcb3c-44ce-49fc-8c14-19ff64ba0892": {
+      "ProjectGuid": "bf2dcb3c-44ce-49fc-8c14-19ff64ba0892",
+      "DisplayName": "BL",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
